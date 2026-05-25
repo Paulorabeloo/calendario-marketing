@@ -1,0 +1,30 @@
+# Vercel
+.vercel/
+
+# Claude Code (qualquer config/memória/skill local)
+.claude/
+CLAUDE.md
+MEMORY.md
+memory/
+.agents/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Arquivo duplicado local
+Calendario Marketing.html
+
+# Tokens / segredos
+.env
+.env.*
+*.key
+*.pem
